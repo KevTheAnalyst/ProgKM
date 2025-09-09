@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kev The Data Analyst
+- 👋 Hi, I’m @KevTheAnalyst
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Excel for analytics
 - 💞️ I’m looking to collaborate on excel projects
