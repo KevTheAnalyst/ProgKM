@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ProgKM
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on backend web dev
+- 👋 Hi, I’m @Kev The Data Analyst
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Excel for analytics
+- 💞️ I’m looking to collaborate on excel projects
 - 📫 How to reach me muokielvin@gmail.com
 
 <!---
