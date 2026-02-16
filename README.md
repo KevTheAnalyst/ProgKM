@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KevTheAnalyst
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Excel for analytics
-- 💞️ I’m looking to collaborate on excel projects
+- 🌱 I am proficient in Excel, Python, SQL, and Tableau
+- 💞️ I’m looking to collaborate on any financial, healthcare, or sales data projects 
 - 📫 How to reach me muokielvin@gmail.com
 
 <!---
